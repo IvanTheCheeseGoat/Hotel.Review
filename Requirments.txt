@@ -1,0 +1,9 @@
+streamlit
+pandas
+textblob
+rake-nltk
+nltk
+scikit-learn
+imbalanced-learn
+matplotlib
+wordcloud
